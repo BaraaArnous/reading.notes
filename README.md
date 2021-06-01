@@ -1,8 +1,16 @@
- # growth mindset
- 
- ##### A growth mindset depends mainly on a person’s effort and how he thinks. It is a good way to think about things and accomplish difficult things in a positive spirit. It is also a person’s challenge to himself to reach the desired goal no matter the difficulties
- 
- * the growth mindset ,make my * *thinking better,
- * ,the growth mindset ,makeing the person * *more trust on himself,
- * ,the groth mindset, **,dont able to match with bad person,**
- * in other way  **,should to thinking in growth mindset to make our live better**, 
+ ### Hello my name is  
+ #  Mohammad Baraa Arnous
+
+  ### Im from syria damascus I have 32 years old 
+
+ * Im study business managment in syria but 
+ i can,t complete the field 
+
+ * i came to the jordan in 2012 and I study graphic design and multimedia in SAE institute and islamic scince in islamic scince institute in tabarbour city
+
+  *  Im so excited to be with you here in this class in programing  .
+
+| title       | link |
+| ----------- | ----------- |
+| read1      | [link](https://baraaarnous.github.io/reading.notes/growthmind)       |
+| read2      | [link] (https://baraaarnous.github.io/reading.notes/readme)      |
