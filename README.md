@@ -13,4 +13,4 @@
 | title       | link |
 | ----------- | ----------- |
 | read1      | [link](https://baraaarnous.github.io/reading.notes/growthmind)       |
-| read2      | [link] (https://baraaarnous.github.io/reading.notes/readme)      |
+| read2      | [link](https://baraaarnous.github.io/reading.notes/readme)      |
