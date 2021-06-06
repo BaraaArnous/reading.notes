@@ -13,8 +13,8 @@
 
 | title       | link |
 | ----------- | ----------- |
-| read1      | [link](https://baraaarnous.github.io/reading.notes/growthmind)       |
-| read2      | [link](https://baraaarnous.github.io/reading.notes/read1)      |
+| read1      | [link](https://baraaarnous.github.io/reading.notes/read1)       |
+| read2      | [link](https://baraaarnous.github.io/reading.notes/read2)      |
 | read3      | [link](https://baraaarnous.github.io/reading.notes/read3)      |
 | read4      | [link](https://baraaarnous.github.io/reading.notes/read4)
 | read5      | [link](https://baraaarnous.github.io/reading.notes/read5)
